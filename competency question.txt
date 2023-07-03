@@ -1,0 +1,23 @@
+Which letters are present?,1
+How many letters are there?,2
+What are the labels of the letter? Or what is letter also known as?,3
+How many labels of  a letter are there?,4
+What are the types of  a letter?,5
+How many types of  a letter are there?,6
+Which verses include letter “م” in them?,7
+What are the letter occurence of “م” in them?,8
+Which letters are the type of Izhar letter?,9
+Which letters are the type of Izhar Shafawi letter?,10
+Which letters are the type of Ikhfa letter?,11
+Which letters are the type of Qalqalah letter?,12a
+Which letters are the type of Ikhfa Shafawi letter?,12b
+Which letters are the type of Idghaam With Ghunnah Letter?,13
+Which letters are the type of Idghaam Shafawi Letter?,14
+Which letters are the type of Iqlab Letter?,15
+Which letters are the type of Idghaam Without Ghunnah Letter?,16
+Which letters are the type of Maad  Letter?,17
+What are the types of Harakat?,18
+How many types of Harakat are there?,19
+Which letters are of type Tanween?,20
+
+
